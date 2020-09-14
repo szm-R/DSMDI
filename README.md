@@ -1,3 +1,3 @@
 # DSMDI
 
-DSMDI stands for Dynamic Systems Modeling of Dyadic Interations. 
+DSMDI stands for Dynamic Systems Modeling of Dyadic Interactions. 
